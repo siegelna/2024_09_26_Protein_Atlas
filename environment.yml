@@ -1,0 +1,17 @@
+name: 2024_06_21_Protein_Atlas
+channels:
+ - conda-forge
+dependencies:
+   # R packages
+  - r-irkernel  
+  - r-base
+  - r-dplyr
+  - r-readr
+  - r-tidyr
+  - r-ggplot2
+
+  # JupyterLab for running notebooks
+  - jupyterlab
+
+  # Radian for improved R REPL (optional)
+  - radian

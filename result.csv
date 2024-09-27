@@ -1,0 +1,15 @@
+"Immune cell","TNFRSF4","BTLA"
+"Central memory CD8 T-cell",1.9,24.3
+"Effector memory CD8 T-cell",1.8,11.4
+"MAIT T-cell",1,8.8
+"Memory CD4 T-cell TFH",31.2,22.9
+"Memory CD4 T-cell Th1",13,27.3
+"Memory CD4 T-cell Th1/Th17",34,27.7
+"Memory CD4 T-cell Th17",46.7,22.3
+"Memory CD4 T-cell Th2",33.7,25.1
+"naive CD4 T-cell",1.5,35.9
+"naive CD8 T-cell",0,31
+"Non-Vd2 gdTCR",0.7,4.2
+"T-reg",27.3,13.2
+"Terminal effector memory CD4 T-cell",4.2,10.7
+"Terminal effector memory CD8 T-cell",0.2,5.2
